@@ -1,0 +1,4 @@
+entryPoint: telegram_webhook
+runtime: python310
+trigger:
+  http: {}
